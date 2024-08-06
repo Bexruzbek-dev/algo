@@ -61,11 +61,3 @@ For a more comprehensive example, check the [example](example/hyper_algo_search_
 ### Documentation
 
 For detailed API documentation, visit the [Dart API reference](https://pub.dev/documentation/hyper_algo_search_3_ways/latest/).
-
-### Contributing
-
-Contributions are welcome! If you find a bug or have a feature request, please open an issue on [GitHub](https://github.com/asliddinCoDeR77/hyper_algo_search_3_ways/issues).
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/asliddinCoDeR77/hyper_algo_search_3_ways/blob/main/LICENSE) file for more information.
