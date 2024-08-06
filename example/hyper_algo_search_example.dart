@@ -1,6 +1,8 @@
-import 'package:hyper_algo_search/src/search/binary_search.dart';
-import 'package:hyper_algo_search/src/search/jump_search.dart';
-import 'package:hyper_algo_search/src/search/linear_search.dart';
+
+
+import 'package:hyper_algo_search_3_ways/src/search/binary_search.dart';
+import 'package:hyper_algo_search_3_ways/src/search/jump_search.dart';
+import 'package:hyper_algo_search_3_ways/src/search/linear_search.dart';
 
 void main() {
   final intList = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19];

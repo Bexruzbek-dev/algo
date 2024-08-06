@@ -1,8 +1,8 @@
-name: hyper_algo_search
+name: hyper_algo_search_3_ways
 description: A Dart package providing various search algorithms with performance measurement for Flutter and Dart applications.
 version: 1.0.0
-repository: https://github.com/asliddinCoDeR77/hyper_algo_search
-homepage: https://github.com/asliddinCoDeR77/hyper_algo_search
+repository: https://github.com/Bexruzbek-dev/algo
+homepage: https://github.com/Bexruzbek-dev/algo
 
 environment:
   sdk: ">=3.4.3 <4.0.0"

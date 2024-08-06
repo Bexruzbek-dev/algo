@@ -1,4 +1,6 @@
-import 'package:hyper_algo_search/src/algorithm/search_algorith.dart';
+
+
+import 'package:hyper_algo_search_3_ways/src/algorithm/search_algorith.dart';
 
 class LinearSearch extends SearchAlgorithm {
   @override

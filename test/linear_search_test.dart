@@ -1,4 +1,5 @@
-import 'package:hyper_algo_search/src/search/linear_search.dart';
+
+import 'package:hyper_algo_search_3_ways/src/search/linear_search.dart';
 import 'package:test/test.dart';
 
 void main() {
