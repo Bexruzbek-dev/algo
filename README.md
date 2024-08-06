@@ -12,12 +12,12 @@ HyperAlgoSearch is a Dart package that provides various search algorithms with p
 
 ## Getting Started
 
-To start using the `hyper_algo_search` package, add it to your project's `pubspec.yaml` file:
+To start using the `hyper_algo_search_3_ways` package, add it to your project's `pubspec.yaml` file:
 
 ```
 yaml
 dependencies:
-  hyper_algo_search: ^0.0.1
+  hyper_algo_search_3_ways: ^0.0.1
 ```
 
 Then, run `flutter pub get` to install the package.
@@ -27,7 +27,7 @@ Then, run `flutter pub get` to install the package.
 Here's a short example to get you started:
 
 ```
-import 'package:hyper_algo_search/hyper_algo_search.dart';
+import 'package:hyper_algo_search_3_ways/hyper_algo_search_3_ways.dart';
 
 void main() {
   final intList = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19];
@@ -54,18 +54,18 @@ void main() {
 
 ## Example
 
-For a more comprehensive example, check the [example](example/hyper_algo_search_example.dart) provided in the package.
+For a more comprehensive example, check the [example](example/hyper_algo_search_3_ways_example.dart) provided in the package.
 
 ## Additional Information
 
 ### Documentation
 
-For detailed API documentation, visit the [Dart API reference](https://pub.dev/documentation/hyper_algo_search/latest/).
+For detailed API documentation, visit the [Dart API reference](https://pub.dev/documentation/hyper_algo_search_3_ways/latest/).
 
 ### Contributing
 
-Contributions are welcome! If you find a bug or have a feature request, please open an issue on [GitHub](https://github.com/asliddinCoDeR77/hyper_algo_search/issues).
+Contributions are welcome! If you find a bug or have a feature request, please open an issue on [GitHub](https://github.com/asliddinCoDeR77/hyper_algo_search_3_ways/issues).
 
 ### License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/asliddinCoDeR77/hyper_algo_search/blob/main/LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/asliddinCoDeR77/hyper_algo_search_3_ways/blob/main/LICENSE) file for more information.
